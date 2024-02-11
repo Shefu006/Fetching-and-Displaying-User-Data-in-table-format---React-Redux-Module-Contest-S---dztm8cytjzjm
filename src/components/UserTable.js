@@ -1,7 +1,5 @@
 import React, { useState, useEffect } from "react";
 
-function UserTable() {import React, { useState, useEffect } from "react";
-
 function UserTable() {
     const [userData, setUserData]=useState([]);
     useEffect(() => {
